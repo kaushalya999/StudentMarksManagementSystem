@@ -12,6 +12,7 @@ class marksManagement {
 
         homePage();
     }
+    //this is sample
 
     //teatinggggggggg
     //teacher
